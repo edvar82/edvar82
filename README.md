@@ -4,8 +4,8 @@
 - 📫 How to reach me: edvar.monteiro14@gmail.com
 - ⚡ Fun fact: In love with programming and web development.
 
-<img src="https://github-readme-stats.vercel.app/api?username=edvar82&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvar82&layout=compact&theme=radical">
+ <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=edvar82&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvar82&layout=compact&langs_count=7&theme=react" />
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
