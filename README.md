@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying Computer Science at UFAL and I'm a intern at Secretaria Estadual de Educação de Alagoas (SEDUC - AL)
+- 🌱 I’m currently studying Computer Science at UFAL and I'm an intern at Secretaria Estadual de Educação de Alagoas (SEDUC - AL)
 - 📫 How to reach me: edvar.monteiro14@gmail.com
 - ⚡ Fun fact: In love with programming and web development.
 
