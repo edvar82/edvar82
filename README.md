@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying Computer Science at UFAL and I'm an intern at Secretaria Estadual de Educação de Alagoas (SEDUC - AL)
 - 📫 How to reach me: edvar.monteiro14@gmail.com
-- ⚡ Fun fact: In love with programming and web development.
+- ⚡ Fun fact: In love with IA and a lot of experience in full stack web development.
 
  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=edvar82&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvar82&layout=compact&langs_count=7&theme=react" />
